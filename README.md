@@ -4,12 +4,11 @@ An interactive **Power BI dashboard** created to analyze heart disease patterns 
 This project demonstrates how data visualization can help understand key health indicators related to heart disease.
 
 ---
+## Dashboard Preview
 
-## 📊 Dashboard Preview
+![Dashboard Page 1](Images/dashboard1.png)
 
-![Dashboard Preview](images/dashboard_preview.png)
-
----
+![Dashboard Page 2](Images/dashboard2.png)
 
 ## 📁 Project Structure
 
